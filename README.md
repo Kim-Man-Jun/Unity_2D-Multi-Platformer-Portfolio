@@ -15,4 +15,4 @@ Unity Engine 기반으로 제작한 포톤 기반 멀티 플랫포머 게임 포
 - 링크 : 
 
 ## Project Video
-- 링크 : 
+- 링크 : https://youtu.be/HJLM6AnGN2s

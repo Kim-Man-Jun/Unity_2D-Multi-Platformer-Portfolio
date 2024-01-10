@@ -12,7 +12,7 @@ Unity Engine 기반으로 제작한 포톤 기반 멀티 플랫포머 게임 포
 - 개발언어 : C#
 
 ## Project Statement
-- 링크 : 
+- 링크 : https://drive.google.com/file/d/1XJfkW7LU70epM5LlM70tHCDCq-1gHMKq/view?usp=drive_link
 
 ## Project Video
 - 링크 : https://youtu.be/HJLM6AnGN2s
